@@ -1,0 +1,2 @@
+llama2-uncensored:latest > 20-configure-helm - LLM Call Duration: 3.901467125000636
+Sure! I can help you with that. Please provide me with your requirements and I'll generate the code for you in Ansible language.
