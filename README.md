@@ -37,7 +37,7 @@ See [output files](https://github.com/gregfelice/phoenix/tree/main/outputs)
 
 **Observations**
 - Deepseek
-  - I observed Deepseek 14b and 32b giving the best outputs. I interpereteted 32b's results as showing an ability to think ahead and play out scenarios in a way that improved its outputs.
+  - I observed Deepseek 14b and 32b giving the best outputs. I interpreted 32b's results as showing an ability to think ahead and play out scenarios in a way that improved its outputs.
   - I observed Deepseek 7b making lots of language mistakes, often mixing Mandarin and English. This is a problem the Deepseek R1 paper talks about.
   - Deepseek 1.5b outputs were unintelligible.
 - Qwen
